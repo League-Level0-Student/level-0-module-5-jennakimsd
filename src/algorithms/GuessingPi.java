@@ -36,6 +36,7 @@ public class GuessingPi {
 
 				// 7. If they are correct, print out "correct".
 				System.out.println("correct");
+				break;
 			}
 			// 8. If they are not, print out "incorrect" and tell them
 			// to start over. Use 'break;' to break out of the loop.
